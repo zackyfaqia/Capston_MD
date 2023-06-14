@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "538161981367",
+    "project_id": "nempatin-436de",
+    "storage_bucket": "nempatin-436de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538161981367:android:85233a7d23fa9d298fea32",
+        "android_client_info": {
+          "package_name": "com.capstone.nempatin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "538161981367-v2g0pu61qcqvpdsjsec5vfmtbvqklksl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.capstone.nempatin",
+            "certificate_hash": "1de7dfea3cb7cbe41c6dd7bbe713e9219779dbc2"
+          }
+        },
+        {
+          "client_id": "538161981367-ahdfev880t7f1m4uvsbk1eebppil819e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBd8nxRAKaJPqUrJN6tpA9-wvi-iyDotpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "538161981367-ahdfev880t7f1m4uvsbk1eebppil819e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
